@@ -1,4 +1,6 @@
-### Hi there 👋
+### VideoAssembler
+
+## This is an anonymous project for paper "VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model"
 
 <!--
 **videoassembler/VideoAssembler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

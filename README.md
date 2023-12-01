@@ -1,3 +1,1 @@
-# VideoAssembler
-
-This repository is the official implementation of VideoAssembler.
+None

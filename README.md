@@ -1,18 +1,25 @@
-### VideoAssembler
+# VideoAssembler
 
-## This is an anonymous project for paper "VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model"
+This repository is the official implementation of [VideoAssembler](https://arxiv.org/abs/2311.17338).
 
-<!--
-**videoassembler/VideoAssembler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model](https://arxiv.org/abs/2311.17338)**
+</br>
+Haoyu Zhao,
+Tianyi Lu,
+Jiaxi Gu,
+Xing Zhang,
+Zuxuan Wu,
+Hang Xu,
+Yu-Gang Jiang
+</br>
 
-Here are some ideas to get you started:
+[Paper](https://arxiv.org/abs/2311.17338) | [Project](https://videoassembler.github.io/videoassembler/) | code(coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="__assets__/teaser/teaser.png" width="800px"/>  
+<br>
+<em>We propose VideoAssembler, a novel method for generating videos with diverse contents, guided by the reference entities (left) and text prompts (below). It can preserve the fidelity of the entity and generate controllable content.</em>
+</p>
+
+## Code
+Coming soon~
